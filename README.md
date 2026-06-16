@@ -1,3 +1,6 @@
+Nama: Elfin Sinaga
+NIM: 2409106024
+
 # 📚 Sistem Manajemen Toko Buku (BookStore Management System)
 
 Aplikasi berbasis Java untuk mengelola inventaris toko buku, mendukung dua jenis buku: **E-book** dan **Buku Cetak**. Dibangun menggunakan prinsip-prinsip Object-Oriented Programming (OOP) seperti Enkapsulasi, Pewarisan, dan Polimorfisme.
